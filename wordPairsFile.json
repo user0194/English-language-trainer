@@ -1,0 +1,244 @@
+{
+  "wordPairs": [
+    {
+      "word": "Hello",
+      "translation": "Привет"
+    },
+    {
+      "word": "Goodbye",
+      "translation": "До свидания"
+    },
+    {
+      "word": "Please",
+      "translation": "Пожалуйста"
+    },
+    {
+      "word": "Sorry",
+      "translation": "Извините"
+    },
+    {
+      "word": "Thank you",
+      "translation": "Спасибо"
+    },
+    {
+      "word": "Name",
+      "translation": "Имя"
+    },
+    {
+      "word": "Family",
+      "translation": "Семья"
+    },
+    {
+      "word": "Friend",
+      "translation": "Друзья"
+    },
+    {
+      "word": "Home",
+      "translation": "Дом"
+    },
+    {
+      "word": "School",
+      "translation": "Школа"
+    },
+    {
+      "word": "Work",
+      "translation": "Работа"
+    },
+    {
+      "word": "Money",
+      "translation": "Деньги"
+    },
+    {
+      "word": "Cash",
+      "translation": "Наличные"
+    },
+    {
+      "word": "Letter",
+      "translation": "Письмо"
+    },
+    {
+      "word": "Food",
+      "translation": "Еда"
+    },
+    {
+      "word": "Drink",
+      "translation": "Напиток"
+    },
+    {
+      "word": "Meat",
+      "translation": "Мясо"
+    },
+    {
+      "word": "Chicken",
+      "translation": "Курица"
+    },
+    {
+      "word": "Salad",
+      "translation": "Салат"
+    },
+    {
+      "word": "Fruit",
+      "translation": "Фрукты"
+    },
+    {
+      "word": "Vegetable",
+      "translation": "Овощи"
+    },
+    {
+      "word": "Tomato",
+      "translation": "Помидор"
+    },
+    {
+      "word": "Potato",
+      "translation": "Картофель"
+    },
+    {
+      "word": "Carrot",
+      "translation": "Морковь"
+    },
+    {
+      "word": "Onion",
+      "translation": "Лук"
+    },
+    {
+      "word": "Banana",
+      "translation": "Банан"
+    },
+    {
+      "word": "Apple",
+      "translation": "Яблоко"
+    },
+    {
+      "word": "Pineapple",
+      "translation": "Ананас"
+    },
+    {
+      "word": "Orange",
+      "translation": "Апельсин"
+    },
+    {
+      "word": "Lemon",
+      "translation": "Лимон"
+    },
+    {
+      "word": "Grape",
+      "translation": "Виноград"
+    },
+    {
+      "word": "Strawberry",
+      "translation": "Клубника"
+    },
+    {
+      "word": "Cherry",
+      "translation": "Вишня"
+    },
+    {
+      "word": "Pear",
+      "translation": "Груша"
+    },
+    {
+      "word": "Mango",
+      "translation": "Манго"
+    },
+    {
+      "word": "Kiwi",
+      "translation": "Киви"
+    },
+    {
+      "word": "Peach",
+      "translation": "Персик"
+    },
+    {
+      "word": "Apricot",
+      "translation": "Абрикос"
+    },
+    {
+      "word": "Plum",
+      "translation": "Слива"
+    },
+    {
+      "word": "Avocado",
+      "translation": "Авокадо"
+    },
+    {
+      "word": "Animal",
+      "translation": "Животное"
+    },
+    {
+      "word": "Cat",
+      "translation": "Кошка"
+    },
+    {
+      "word": "Dog",
+      "translation": "Собака"
+    },
+    {
+      "word": "Horse",
+      "translation": "Лошадь"
+    },
+    {
+      "word": "Bird",
+      "translation": "Птица"
+    },
+    {
+      "word": "Fish",
+      "translation": "Рыба"
+    },
+    {
+      "word": "Insect",
+      "translation": "Насекомое"
+    },
+    {
+      "word": "Cow",
+      "translation": "Корова"
+    },
+    {
+      "word": "Sheep",
+      "translation": "Овца"
+    },
+    {
+      "word": "Pig",
+      "translation": "Свинья"
+    },
+    {
+      "word": "Sun",
+      "translation": "Солнце"
+    },
+    {
+      "word": "Moon",
+      "translation": "Луна"
+    },
+    {
+      "word": "Star",
+      "translation": "Звезда"
+    },
+    {
+      "word": "Sky",
+      "translation": "Небо"
+    },
+    {
+      "word": "Cloud",
+      "translation": "Облако"
+    },
+    {
+      "word": "Wind",
+      "translation": "Ветер"
+    },
+    {
+      "word": "Rain",
+      "translation": "Дождь"
+    },
+    {
+      "word": "Snow",
+      "translation": "Снег"
+    },
+    {
+      "word": "Ice",
+      "translation": "Лёд"
+    },
+    {
+      "word": "Weather",
+      "translation": "Погода"
+    }
+  ]
+}

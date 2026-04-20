@@ -1,0 +1,304 @@
+{
+  "wordPairs": [
+    {
+      "wordPairID": "wordPairID_001",
+      "word": "Hello",
+      "translation": "Привет"
+    },
+    {
+      "wordPairID": "wordPairID_002",
+      "word": "Goodbye",
+      "translation": "До свидания"
+    },
+    {
+      "wordPairID": "wordPairID_003",
+      "word": "Please",
+      "translation": "Пожалуйста"
+    },
+    {
+      "wordPairID": "wordPairID_004",
+      "word": "Sorry",
+      "translation": "Извините"
+    },
+    {
+      "wordPairID": "wordPairID_005",
+      "word": "Thank you",
+      "translation": "Спасибо"
+    },
+    {
+      "wordPairID": "wordPairID_006",
+      "word": "Name",
+      "translation": "Имя"
+    },
+    {
+      "wordPairID": "wordPairID_007",
+      "word": "Family",
+      "translation": "Семья"
+    },
+    {
+      "wordPairID": "wordPairID_008",
+      "word": "Friend",
+      "translation": "Друг"
+    },
+    {
+      "wordPairID": "wordPairID_009",
+      "word": "Home",
+      "translation": "Дом"
+    },
+    {
+      "wordPairID": "wordPairID_010",
+      "word": "School",
+      "translation": "Школа"
+    },
+    {
+      "wordPairID": "wordPairID_011",
+      "word": "Work",
+      "translation": "Работа"
+    },
+    {
+      "wordPairID": "wordPairID_012",
+      "word": "Money",
+      "translation": "Деньги"
+    },
+    {
+      "wordPairID": "wordPairID_013",
+      "word": "Cash",
+      "translation": "Наличные"
+    },
+    {
+      "wordPairID": "wordPairID_014",
+      "word": "Letter",
+      "translation": "Письмо"
+    },
+    {
+      "wordPairID": "wordPairID_015",
+      "word": "Food",
+      "translation": "Еда"
+    },
+    {
+      "wordPairID": "wordPairID_016",
+      "word": "Drink",
+      "translation": "Напиток"
+    },
+    {
+      "wordPairID": "wordPairID_017",
+      "word": "Meat",
+      "translation": "Мясо"
+    },
+    {
+      "wordPairID": "wordPairID_018",
+      "word": "Chicken",
+      "translation": "Курица"
+    },
+    {
+      "wordPairID": "wordPairID_019",
+      "word": "Salad",
+      "translation": "Салат"
+    },
+    {
+      "wordPairID": "wordPairID_020",
+      "word": "Fruit",
+      "translation": "Фрукты"
+    },
+    {
+      "wordPairID": "wordPairID_021",
+      "word": "Vegetable",
+      "translation": "Овощи"
+    },
+    {
+      "wordPairID": "wordPairID_022",
+      "word": "Tomato",
+      "translation": "Помидор"
+    },
+    {
+      "wordPairID": "wordPairID_023",
+      "word": "Potato",
+      "translation": "Картофель"
+    },
+    {
+      "wordPairID": "wordPairID_024",
+      "word": "Carrot",
+      "translation": "Морковь"
+    },
+    {
+      "wordPairID": "wordPairID_025",
+      "word": "Onion",
+      "translation": "Лук"
+    },
+    {
+      "wordPairID": "wordPairID_026",
+      "word": "Banana",
+      "translation": "Банан"
+    },
+    {
+      "wordPairID": "wordPairID_027",
+      "word": "Apple",
+      "translation": "Яблоко"
+    },
+    {
+      "wordPairID": "wordPairID_028",
+      "word": "Pineapple",
+      "translation": "Ананас"
+    },
+    {
+      "wordPairID": "wordPairID_029",
+      "word": "Orange",
+      "translation": "Апельсин"
+    },
+    {
+      "wordPairID": "wordPairID_030",
+      "word": "Lemon",
+      "translation": "Лимон"
+    },
+    {
+      "wordPairID": "wordPairID_031",
+      "word": "Grape",
+      "translation": "Виноград"
+    },
+    {
+      "wordPairID": "wordPairID_032",
+      "word": "Strawberry",
+      "translation": "Клубника"
+    },
+    {
+      "wordPairID": "wordPairID_033",
+      "word": "Cherry",
+      "translation": "Вишня"
+    },
+    {
+      "wordPairID": "wordPairID_034",
+      "word": "Pear",
+      "translation": "Груша"
+    },
+    {
+      "wordPairID": "wordPairID_035",
+      "word": "Mango",
+      "translation": "Манго"
+    },
+    {
+      "wordPairID": "wordPairID_036",
+      "word": "Kiwi",
+      "translation": "Киви"
+    },
+    {
+      "wordPairID": "wordPairID_037",
+      "word": "Peach",
+      "translation": "Персик"
+    },
+    {
+      "wordPairID": "wordPairID_038",
+      "word": "Apricot",
+      "translation": "Абрикос"
+    },
+    {
+      "wordPairID": "wordPairID_039",
+      "word": "Plum",
+      "translation": "Слива"
+    },
+    {
+      "wordPairID": "wordPairID_040",
+      "word": "Avocado",
+      "translation": "Авокадо"
+    },
+    {
+      "wordPairID": "wordPairID_041",
+      "word": "Animal",
+      "translation": "Животное"
+    },
+    {
+      "wordPairID": "wordPairID_042",
+      "word": "Cat",
+      "translation": "Кошка"
+    },
+    {
+      "wordPairID": "wordPairID_043",
+      "word": "Dog",
+      "translation": "Собака"
+    },
+    {
+      "wordPairID": "wordPairID_044",
+      "word": "Horse",
+      "translation": "Лошадь"
+    },
+    {
+      "wordPairID": "wordPairID_045",
+      "word": "Bird",
+      "translation": "Птица"
+    },
+    {
+      "wordPairID": "wordPairID_046",
+      "word": "Fish",
+      "translation": "Рыба"
+    },
+    {
+      "wordPairID": "wordPairID_047",
+      "word": "Insect",
+      "translation": "Насекомое"
+    },
+    {
+      "wordPairID": "wordPairID_048",
+      "word": "Cow",
+      "translation": "Корова"
+    },
+    {
+      "wordPairID": "wordPairID_049",
+      "word": "Sheep",
+      "translation": "Овца"
+    },
+    {
+      "wordPairID": "wordPairID_050",
+      "word": "Pig",
+      "translation": "Свинья"
+    },
+    {
+      "wordPairID": "wordPairID_051",
+      "word": "Sun",
+      "translation": "Солнце"
+    },
+    {
+      "wordPairID": "wordPairID_052",
+      "word": "Moon",
+      "translation": "Луна"
+    },
+    {
+      "wordPairID": "wordPairID_053",
+      "word": "Star",
+      "translation": "Звезда"
+    },
+    {
+      "wordPairID": "wordPairID_054",
+      "word": "Sky",
+      "translation": "Небо"
+    },
+    {
+      "wordPairID": "wordPairID_055",
+      "word": "Cloud",
+      "translation": "Облако"
+    },
+    {
+      "wordPairID": "wordPairID_056",
+      "word": "Wind",
+      "translation": "Ветер"
+    },
+    {
+      "wordPairID": "wordPairID_057",
+      "word": "Rain",
+      "translation": "Дождь"
+    },
+    {
+      "wordPairID": "wordPairID_058",
+      "word": "Snow",
+      "translation": "Снег"
+    },
+    {
+      "wordPairID": "wordPairID_059",
+      "word": "Ice",
+      "translation": "Лёд"
+    },
+    {
+      "wordPairID": "wordPairID_060",
+      "word": "Weather",
+      "translation": "Погода"
+    }
+  ]
+}

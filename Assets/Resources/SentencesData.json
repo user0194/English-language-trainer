@@ -1,0 +1,124 @@
+{
+  "sentences": [
+    {
+      "sentence": "They ____ to the school.",
+      "correctWord": "go",
+      "wrongWords": [ "eat", "sleep", "drink" ],
+      "translation": "Они ходят в школу."
+    },
+    {
+      "sentence": "I ____ apples.",
+      "correctWord": "like",
+      "wrongWords": [ "open", "read", "listen" ],
+      "translation": "Я люблю яблоки."
+    },
+    {
+      "sentence": "She ____ a book.",
+      "correctWord": "reads",
+      "wrongWords": [ "plays", "cooks", "drinks" ],
+      "translation": "Она читает книгу."
+    },
+    {
+      "sentence": "I ____ English.",
+      "correctWord": "study",
+      "wrongWords": [ "jump", "run", "open" ],
+      "translation": "Я изучаю английский."
+    },
+    {
+      "sentence": "We ____ the violins.",
+      "correctWord": "play",
+      "wrongWords": [ "cooks", "read", "swim" ],
+      "translation": "Мы играем на скрипках."
+    },
+    {
+      "sentence": "It ____ in winter.",
+      "correctWord": "snows",
+      "wrongWords": [ "walks", "talks", "sings" ],
+      "translation": "Зимой идёт снег."
+    },
+    {
+      "sentence": "Cats ____ milk.",
+      "correctWord": "like",
+      "wrongWords": [ "drive", "listen", "jump" ],
+      "translation": "Кошки любят молоко."
+    },
+    {
+      "sentence": "She ____ in a hospital.",
+      "correctWord": "works",
+      "wrongWords": [ "sleeps", "study", "flies" ],
+      "translation": "Она работает в больнице."
+    },
+    {
+      "sentence": "I ____ the letter.",
+      "correctWord": "read",
+      "wrongWords": [ "go", "play", "eat" ],
+      "translation": "Я прочитал письмо."
+    },
+    {
+      "sentence": "I ____ English and French.",
+      "correctWord": "speak",
+      "wrongWords": [ "say", "take", "stay" ],
+      "translation": "Я говорю по-английски и по-французски."
+    },
+    {
+      "sentence": "I ____ in a big city.",
+      "correctWord": "live",
+      "wrongWords": [ "make", "watch", "lead" ],
+      "translation": "Я живу в большом городе."
+    },
+    {
+      "sentence": "She ____ cats.",
+      "correctWord": "likes",
+      "wrongWords": [ "imagine", "write", "run" ],
+      "translation": "Ей нравятся кошки."
+    },
+    {
+      "sentence": "The sun ____ in the east.",
+      "correctWord": "rises",
+      "wrongWords": [ "come", "find", "live" ],
+      "translation": "Солнце встает на востоке."
+    },
+    {
+      "sentence": "We ____ breakfast at 8 o'clock.",
+      "correctWord": "eat",
+      "wrongWords": [ "work", "watch", "send" ],
+      "translation": "Мы завтракаем в 8 часов."
+    },
+    {
+      "sentence": "He ____ every day.",
+      "correctWord": "works",
+      "wrongWords": [ "win", "decide", "fly" ],
+      "translation": "Он работает каждый день."
+    },
+    {
+      "sentence": "They ____ football.",
+      "correctWord": "play",
+      "wrongWords": [ "hope", "fall", "break" ],
+      "translation": "Они играют в футбол."
+    },
+    {
+      "sentence": "It ____ a lot in autumn.",
+      "correctWord": "rains",
+      "wrongWords": [ "build", "grow", "create" ],
+      "translation": "Осенью часто идет дождь."
+    },
+    {
+      "sentence": "You ____ English well.",
+      "correctWord": "speak",
+      "wrongWords": [ "fly", "achieve", "start" ],
+      "translation": "Ты хорошо говоришь по-английски."
+    },
+    {
+      "sentence": "Dogs ____.",
+      "correctWord": "bark",
+      "wrongWords": [ "mean", "let", "call" ],
+      "translation": "Собаки лают."
+    },
+    {
+      "sentence": "My sister ____ books.",
+      "correctWord": "reads",
+      "wrongWords": [ "call", "try", "smile" ],
+      "translation": "Моя сестра читает книги."
+    }
+  ]
+}
